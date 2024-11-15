@@ -1,3 +1,7 @@
+.git
+.vscode
 .env
 node_modules 
 sample.env
+public/data/
+.hintrc
